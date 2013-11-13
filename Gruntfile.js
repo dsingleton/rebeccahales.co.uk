@@ -11,6 +11,21 @@ module.exports = function(grunt) {
         }]
       }
     },
+
+    connect: {
+      options: {
+        hostname: 'localhost',
+        port: 9000
+      },
+      dist: {
+        options: {
+          open: true,
+          keepalive: true,
+          base: 'dist'
+        }
+      }
+    },
+
     'gh-pages': {
        options: {
         base: 'dist',
@@ -22,9 +37,15 @@ module.exports = function(grunt) {
 
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-gh-pages');
+  grunt.loadNpmTasks('grunt-contrib-connect');
 
   grunt.registerTask('build', [
     'copy:dist',
+  ]);
+
+  grunt.registerTask('server', [
+    'build',
+    'connect:dist'
   ]);
 
   grunt.registerTask('deploy', [
