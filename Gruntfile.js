@@ -14,7 +14,7 @@ module.exports = function(grunt) {
     'gh-pages': {
        options: {
         base: 'dist',
-        push: false
+        message:'Automatically generated gh-pages update'
       },
       src: ['**']
     }
