@@ -6,7 +6,7 @@ title: Work and projects
 
 Highlights include:
 
-- leading on digital engagement for the transformation [25 major government services](https://gds.blog.gov.uk/2015/03/27/looking-back-at-the-exemplars/), including [Register to Vote](https://www.gov.uk/register-to-vote)
+- leading on digital engagement for the transformation of [25 major government services](https://gds.blog.gov.uk/2015/03/27/looking-back-at-the-exemplars/), including [Register to Vote](https://www.gov.uk/register-to-vote)
 - advising Ministers and company directors on how to [communicate complex ideas in plain English](https://gds.blog.gov.uk/2016/02/11/11-february-2016-sprint-16-live-blog/)
 - defining how senior leaders and project teams at the Government Digital Service [talk about their work](https://gdsengagement.blog.gov.uk/2015/09/30/digital-engagement-for-gov-uk-verify-creating-consistent-messaging/)
 - coordinating all [digital communications](https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify), [speeches and presentations](https://identityassurance.blog.gov.uk/2015/10/27/matt-hancock-on-how-user-feedback-is-shaping-gov-uk-verify/) and [media](http://www.computerweekly.com/news/450285518/Interview-Janet-Hughes-Govuk-Verify-programme-director-GDS) around the development and launch of GOV.UK Verify

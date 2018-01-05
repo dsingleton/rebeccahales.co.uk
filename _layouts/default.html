@@ -6,6 +6,7 @@
 
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="/static/css/main.css" />
+  <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:300:400,600" rel="stylesheet">
 
   <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
@@ -17,7 +18,13 @@
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 </head>
 
-<body>
+<body class="{{ page.body_class }}">
+
+  <header class="homepage-hero">
+    <h1>Rebecca Hales</h1>
+
+    <h2>Digital communications and engagement, crisis comms, media management, content strategy</h2>
+  </header>
 
   <div id="main" role="main">
     {{ content }}
