@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 2em 4em;
+  font: 21px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  max-width: 60em;
+}
+
+p {
+  margin: 1em 0;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+
+}
+
+.homepage-hero {
+  h1 {
+    font-size: 3em;
+    line-height: 1.3;
+    font-weight: bold;
+  }
+
+  h2 {
+    margin: 0 0 1.5em 0;
+    padding: 0 0 1.5em 0;
+
+    font-size: 1.8em;
+    line-height: 1.2;
+    font-weight: bold;
+
+    border-bottom: 3px solid orange;
+  }
+
+  h3 {
+
+  }
+}
