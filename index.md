@@ -6,7 +6,9 @@ body_class: home
 
 ### Helping make organisations and their people open and transparent. Finding new ways to share the right messages, in the right place, at the right time.
 
-With 10 years of communications and editorial experience, I’ve worked for high-profile organisations with hundreds of years of history to share as well as brand new digital teams creating their own stories. I’m currently Content Lead for the UK Parliament, maintaining a balance between hands-on content design, communications consultancy, and directing a team.
+With 10 years of communications and editorial experience, I’ve worked for high-profile organisations with hundreds of years of history to share as well as brand new digital teams creating their own stories.
+
+I’m currently Content Lead for the UK Parliament, maintaining a balance between hands-on content design, communications consultancy, and directing a team.
 
 [Get in touch](mailto:rebecca@rebeccahales.co.uk), [take a look at my CV (PDF)](/Rebecca Hales CV.pdf), or [explore some of my work](/work-and-projects).
 
