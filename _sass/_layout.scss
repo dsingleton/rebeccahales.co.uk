@@ -103,3 +103,29 @@ li {
     margin-right: .1em;
   }
 }
+
+.creative-projects {
+  margin: 0 -1em;
+  padding: 0;
+
+  list-style: none;
+
+  li {
+    img {
+      width: 100%;
+      height: auto;
+      border: 1px solid #555;
+    }
+  }
+
+  @include tablet-up {
+    display: flex;
+    flex-wrap: wrap;
+
+    li {
+      padding: 1em;
+      flex: 1;
+      flex-basis: 33%;
+    }
+  }
+}
