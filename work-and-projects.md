@@ -6,6 +6,7 @@ title: Work and projects
 
 Highlights include:
 
+- establishing and embedding [fundamental user experience and design principles](https://medium.com/bts-design-team/introducing-our-digital-experience-principles-cf7230aaf47) across three iconic British brands.
 - leading on digital engagement for the transformation of [25 major government services](https://gds.blog.gov.uk/2015/03/27/looking-back-at-the-exemplars/), including [Register to Vote](https://www.gov.uk/register-to-vote)
 - advising Ministers and company directors on how to [communicate complex ideas in plain English](https://gds.blog.gov.uk/2016/02/11/11-february-2016-sprint-16-live-blog/)
 - defining how senior leaders and project teams at the Government Digital Service [talk about their work](https://gdsengagement.blog.gov.uk/2015/09/30/digital-engagement-for-gov-uk-verify-creating-consistent-messaging/)
